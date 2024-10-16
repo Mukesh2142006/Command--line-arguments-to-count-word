@@ -25,11 +25,13 @@ Run the program to determine the number of words in the file created.
 #Developed by : AMALJOSH MAADHAV J
 #REG NO: 212223230012
 
+
 import sys
 fp= open(sys.argv[1])
 data=fp.read()
 words=data.split()
 print("Total Words:",len(words))
+
 
 
 
