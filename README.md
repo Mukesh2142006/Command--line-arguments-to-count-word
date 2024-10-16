@@ -22,8 +22,8 @@ Run the program to determine the number of words in the file created.
 ```
 
 #Program for getting the word count from the contents of a file using command line arguments.
-#Developed by : AMALJOSH MAADHAV J
-#REG NO: 212223230012
+#Developed by : MUKESH.B
+#REG NO: 212223230128
 
 
 import sys
