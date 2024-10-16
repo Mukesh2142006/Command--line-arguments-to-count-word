@@ -1,5 +1,5 @@
 ## DATE:
-## Ex NO 10 -  Command--line-arguments-to-count-word
+## Ex No 10 -  Command--line-arguments-to-count-word
 ## AIM:
 To write a python program for getting the word count from the contents of a file using command line arguments.
 ## EQUIPEMENT'S REQUIRED: 
@@ -31,6 +31,8 @@ fp= open(sys.argv[1])
 data=fp.read()
 words=data.split()
 print("Total Words:",len(words))
+
+
 
 
 
